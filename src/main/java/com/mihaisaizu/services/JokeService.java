@@ -1,4 +1,4 @@
-package com.mihaisaizu.jokeapp.services;
+package com.mihaisaizu.services;
 
 public interface JokeService {
 

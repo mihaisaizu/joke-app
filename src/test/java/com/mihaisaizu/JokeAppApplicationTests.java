@@ -1,4 +1,4 @@
-package com.mihaisaizu.jokeapp;
+package com.mihaisaizu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

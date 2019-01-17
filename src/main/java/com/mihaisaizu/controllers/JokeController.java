@@ -1,6 +1,6 @@
-package com.mihaisaizu.jokeapp.controllers;
+package com.mihaisaizu.controllers;
 
-import com.mihaisaizu.jokeapp.services.JokeService;
+import com.mihaisaizu.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
